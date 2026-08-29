@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kimi-cu": {
+      "type": "stdio",
+      "command": "/Applications/KimiCU.app/Contents/MacOS/kimi-cu",
+      "args": ["mcp", "-s", "user"]
+    }
+  }
+}
